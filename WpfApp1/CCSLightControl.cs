@@ -159,7 +159,7 @@ namespace CCSLightControlTool
                         socket.Disconnect(false);
                         socket.Shutdown(SocketShutdown.Both);
                         socket.Close();
-                        throw new SocketException(10060); // Connection timed out.
+                        throw new SocketException(10060); // Connection timed out
                     }
                 }
             }
