@@ -9,7 +9,7 @@
         ResizeMode="NoResize"
         WindowStartupLocation="CenterScreen"
    
-        Title="Zeta: CCS Light Control Setup Tool" 
+        Title="CCS Light Control Setup Tool" 
         Height="280" Width="580">
     <Border Background="#212121" Padding="3">
         <Grid>
